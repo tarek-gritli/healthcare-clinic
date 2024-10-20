@@ -1,0 +1,159 @@
+{
+  "header": {
+    "home": "Home",
+    "contact": "Contatto",
+    "aboutUs": "Chi Siamo",
+    "appointment": "Appuntamenti",
+    "burger": "Apri Menu",
+    "close": "Chiudi Menu"
+  },
+  "hero": {
+    "title": "Benvenuti alla Clinica Sanitaria",
+    "subtitle": "Il tuo partner di fiducia per la salute. Offriamo una vasta gamma di servizi medici con un team di medici esperti. Le nostre strutture all'avanguardia e l'assistenza compassionevole assicurano che tu riceva il miglior trattamento possibile. Dai controlli di routine alle procedure specializzate, siamo qui per supportare la tua salute e il tuo benessere in ogni fase.",
+    "makeAppointment": "Prenota un Appuntamento",
+    "bookTaxi": "Prenota un Taxi",
+    "taxi": {
+      "modalTitle": "Prenota un Taxi",
+      "modalDescription": "Inserisci la tua destinazione",
+      "placeLabel": "Destinazione",
+      "cancel": "Annulla",
+      "submit": "Invia",
+      "success": "Richiesta di taxi inviata con successo",
+      "successDescription": "Il nostro team ti contatterà a breve per confermare la richiesta di taxi"
+    }
+  },
+  "about": {
+    "ourStory": {
+      "title": "La Nostra Storia",
+      "description": "Alla Clinica Sanitaria siamo dedicati a fornire cure sanitarie eccezionali da oltre due decenni. Il nostro percorso è iniziato con una missione semplice: offrire servizi medici compassionevoli, completi e all'avanguardia alla nostra comunità.",
+      "ourValues": {
+        "compassion": {
+          "title": "Compassione",
+          "description": "Trattiamo ogni paziente con gentilezza e rispetto"
+        },
+        "excellence": {
+          "title": "Eccellenza",
+          "description": "Cerchiamo l'eccellenza in tutto ciò che facciamo"
+        },
+        "integrity": {
+          "title": "Integrità",
+          "description": "Agiamo con onestà e trasparenza in tutte le nostre interazioni"
+        },
+        "innovation": {
+          "title": "Innovazione",
+          "description": "Adottiamo nuove idee e tecnologie per migliorare l'assistenza sanitaria"
+        },
+        "communityInvolvement": {
+          "title": "Coinvolgimento della Comunità",
+          "description": "Partecipiamo attivamente a programmi di salute comunitaria, promuovendo il benessere oltre le mura della nostra clinica."
+        }
+      }
+    },
+    "ourServices": {
+      "title": "I Nostri Servizi",
+      "services": [
+        {
+          "title": "Cure Primarie",
+          "description": "Valutazioni sanitarie complete e cure preventive"
+        },
+        {
+          "title": "Trattamenti Specializzati",
+          "description": "Cure esperte per condizioni di salute specifiche"
+        },
+        {
+          "title": "Cure Urgenti",
+          "description": "Cure immediate per condizioni non pericolose per la vita"
+        },
+        {
+          "title": "Servizi Diagnostici",
+          "description": "Test diagnostici e imaging all'avanguardia"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Cosa Dicono i Nostri Pazienti",
+    "testimonials": [
+      {
+        "name": "Sarah L.",
+        "content": "Il personale della Clinica Sanitaria è incredibilmente premuroso e professionale. Mi sento sempre ben curata."
+      },
+      {
+        "name": "John D.",
+        "content": "Vengo qui da anni. I medici sono competenti e prendono il tempo necessario per ascoltare le mie preoccupazioni."
+      },
+      {
+        "name": "Emily R.",
+        "content": "Il programma di cura preventiva della Clinica Sanitaria è stato trasformativo. Il loro approccio proattivo e i controlli regolari mi hanno aiutato a mantenere una salute ottimale e a individuare potenziali problemi in anticipo."
+      }
+    ]
+  },
+  "reservation": {
+    "title": "Prenota un Appuntamento",
+    "description": "Prenota il tuo appuntamento online e scopri i nostri servizi sanitari completi",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "date": "Data",
+      "pickDate": "Scegli una data",
+      "time": "Orario",
+      "selectTime": "Seleziona un orario",
+      "service": "Servizio",
+      "selectService": "Seleziona un servizio",
+      "note": "Nota",
+      "noteDescription": "Qualsiasi informazione rilevante riguardo le tue preoccupazioni di salute o il motivo della visita.",
+      "errors": {
+        "name": "Il nome deve avere almeno 3 caratteri",
+        "email": "Indirizzo email non valido",
+        "date": "La data è obbligatoria",
+        "time": "L'orario è obbligatorio",
+        "service": "Il servizio è obbligatorio"
+      },
+      "scheduleAppointment": "Prenota Appuntamento"
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "description": "Ci piacerebbe sentirti",
+    "address": {
+      "title": "Indirizzo",
+      "address": "Istituto Superiore di Informatica (ISI)",
+      "city": "Ariana",
+      "state": "Tunisia",
+      "zip": "2080",
+      "country": "Tunisia"
+    },
+    "phone": {
+      "title": "Telefono",
+      "phone": "+216 71 706 164"
+    },
+    "hours": {
+      "title": "Orari di Apertura",
+      "monday": "Lunedì",
+      "friday": "Venerdì",
+      "saturday": "Sabato",
+      "sunday": {
+        "title": "Domenica",
+        "description": "Chiuso"
+      }
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "Chi Siamo",
+      "description": "La Clinica Sanitaria è impegnata a fornire servizi sanitari completi in un ambiente compassionevole e accessibile."
+    },
+    "quickLinks": {
+      "title": "Link Rapidi",
+      "home": "Home",
+      "contact": "Contatto",
+      "aboutUs": "Chi Siamo",
+      "reservation": "Prenotazioni"
+    },
+    "followUs": "Seguici",
+    "copyright": "2024 Clinica Sanitaria",
+    "allRightsReserved": "Tutti i Diritti Riservati",
+    "privacyPolicy": "Politica sulla Privacy",
+    "termsOfService": "Termini di Servizio"
+  }
+}

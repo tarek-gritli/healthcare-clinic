@@ -1,0 +1,159 @@
+{
+  "header": {
+    "home": "Startseite",
+    "contact": "Kontakt",
+    "aboutUs": "Über Uns",
+    "appointment": "Termine",
+    "burger": "Menü Öffnen",
+    "close": "Menü Schließen"
+  },
+  "hero": {
+    "title": "Willkommen in der HealthCare Klinik",
+    "subtitle": "Ihr vertrauensvoller Gesundheitspartner. Wir bieten eine breite Palette an medizinischen Dienstleistungen mit einem Team von erfahrenen Ärzten an. Unsere hochmodernen Einrichtungen und die fürsorgliche Betreuung stellen sicher, dass Sie die bestmögliche Behandlung erhalten. Von Routineuntersuchungen bis hin zu spezialisierten Verfahren sind wir hier, um Ihre Gesundheit und Ihr Wohlbefinden in jeder Hinsicht zu unterstützen.",
+    "makeAppointment": "Termin Vereinbaren",
+    "bookTaxi": "Taxi Buchen",
+    "taxi": {
+      "modalTitle": "Taxi Buchen",
+      "modalDescription": "Bitte geben Sie Ihr Ziel ein",
+      "placeLabel": "Ziel",
+      "cancel": "Abbrechen",
+      "submit": "Absenden",
+      "success": "Taxianfrage erfolgreich gesendet",
+      "successDescription": "Unser Team wird sich in Kürze mit Ihnen in Verbindung setzen, um die Taxianfrage zu bestätigen"
+    }
+  },
+  "about": {
+    "ourStory": {
+      "title": "Unsere Geschichte",
+      "description": "In der HealthCare Klinik widmen wir uns seit über zwei Jahrzehnten der Bereitstellung außergewöhnlicher Gesundheitsversorgung. Unsere Reise begann mit einer einfachen Mission: der Gemeinschaft mitfühlende, umfassende und hochmoderne medizinische Dienstleistungen anzubieten.",
+      "ourValues": {
+        "compassion": {
+          "title": "Mitgefühl",
+          "description": "Wir behandeln jeden Patienten mit Freundlichkeit und Respekt"
+        },
+        "excellence": {
+          "title": "Exzellenz",
+          "description": "Wir streben Exzellenz in allem an, was wir tun"
+        },
+        "integrity": {
+          "title": "Integrität",
+          "description": "Wir handeln ehrlich und transparent in all unseren Interaktionen"
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "Wir begrüßen neue Ideen und Technologien zur Verbesserung der Gesundheitsversorgung"
+        },
+        "communityInvolvement": {
+          "title": "Gemeinschaftsbeteiligung",
+          "description": "Wir beteiligen uns aktiv an Gesundheitsprogrammen in der Gemeinschaft und fördern das Wohlbefinden über die Mauern unserer Klinik hinaus."
+        }
+      }
+    },
+    "ourServices": {
+      "title": "Unsere Dienstleistungen",
+      "services": [
+        {
+          "title": "Allgemeine Medizin",
+          "description": "Umfassende Gesundheitsbewertungen und präventive Versorgung"
+        },
+        {
+          "title": "Spezialisierte Behandlungen",
+          "description": "Expertenbetreuung für spezifische Gesundheitszustände"
+        },
+        {
+          "title": "Notfallversorgung",
+          "description": "Sofortige Betreuung bei nicht lebensbedrohlichen Zuständen"
+        },
+        {
+          "title": "Diagnosedienste",
+          "description": "Hochmoderne diagnostische Tests und Bildgebung"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Was Unsere Patienten Sagen",
+    "testimonials": [
+      {
+        "name": "Sarah L.",
+        "content": "Das Personal der HealthCare Klinik ist unglaublich fürsorglich und professionell. Ich fühle mich immer gut aufgehoben."
+      },
+      {
+        "name": "John D.",
+        "content": "Ich komme schon seit Jahren hierher. Die Ärzte sind kompetent und nehmen sich die Zeit, auf meine Anliegen einzugehen."
+      },
+      {
+        "name": "Emily R.",
+        "content": "Das Präventivpflegeprogramm der HealthCare Klinik war transformierend. Ihr proaktiver Ansatz und regelmäßige Untersuchungen haben mir geholfen, meine Gesundheit optimal zu erhalten und mögliche Probleme frühzeitig zu erkennen."
+      }
+    ]
+  },
+  "reservation": {
+    "title": "Einen Termin Vereinbaren",
+    "description": "Vereinbaren Sie Ihren Termin online und erleben Sie unsere umfassenden Gesundheitsdienste",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "date": "Datum",
+      "pickDate": "Wählen Sie ein Datum",
+      "time": "Zeit",
+      "selectTime": "Wählen Sie eine Zeit",
+      "service": "Dienstleistung",
+      "selectService": "Wählen Sie eine Dienstleistung",
+      "note": "Notiz",
+      "noteDescription": "Relevante Informationen zu Ihren Gesundheitsproblemen oder zum Grund Ihres Besuchs.",
+      "errors": {
+        "name": "Der Name muss mindestens 3 Zeichen lang sein",
+        "email": "Ungültige E-Mail-Adresse",
+        "date": "Das Datum ist erforderlich",
+        "time": "Die Zeit ist erforderlich",
+        "service": "Die Dienstleistung ist erforderlich"
+      },
+      "scheduleAppointment": "Termin Vereinbaren"
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie Uns",
+    "description": "Wir würden uns freuen, von Ihnen zu hören",
+    "address": {
+      "title": "Adresse",
+      "address": "Höhere Institut für Informatik (ISI)",
+      "city": "Ariana",
+      "state": "Tunesien",
+      "zip": "2080",
+      "country": "Tunesien"
+    },
+    "phone": {
+      "title": "Telefon",
+      "phone": "+216 71 706 164"
+    },
+    "hours": {
+      "title": "Öffnungszeiten",
+      "monday": "Montag",
+      "friday": "Freitag",
+      "saturday": "Samstag",
+      "sunday": {
+        "title": "Sonntag",
+        "description": "Geschlossen"
+      }
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "Über Uns",
+      "description": "Die HealthCare Klinik engagiert sich für die Bereitstellung umfassender Gesundheitsdienste in einer mitfühlenden und zugänglichen Umgebung."
+    },
+    "quickLinks": {
+      "title": "Schnellzugriff",
+      "home": "Startseite",
+      "contact": "Kontakt",
+      "aboutUs": "Über Uns",
+      "reservation": "Reservierungen"
+    },
+    "followUs": "Folgen Sie Uns",
+    "copyright": "2024 HealthCare Klinik",
+    "allRightsReserved": "Alle Rechte Vorbehalten",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

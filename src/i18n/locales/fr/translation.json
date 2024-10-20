@@ -1,0 +1,159 @@
+{
+  "header": {
+    "home": "Accueil",
+    "contact": "Contact",
+    "aboutUs": "À Propos",
+    "appointment": "Rendez-vous",
+    "burger": "Ouvrir le Menu",
+    "close": "Fermer le Menu"
+  },
+  "hero": {
+    "title": "Bienvenue à la Clinique Santé",
+    "subtitle": "Votre partenaire santé de confiance. Nous offrons une large gamme de services médicaux avec une équipe de médecins experts. Nos installations de pointe et nos soins bienveillants garantissent que vous recevez le meilleur traitement possible. Des bilans de santé de routine aux procédures spécialisées, nous sommes là pour soutenir votre santé et votre bien-être à chaque étape.",
+    "makeAppointment": "Prendre Rendez-vous",
+    "bookTaxi": "Réserver un Taxi",
+    "taxi": {
+      "modalTitle": "Réserver un Taxi",
+      "modalDescription": "Veuillez entrer votre destination",
+      "placeLabel": "Destination",
+      "cancel": "Annuler",
+      "submit": "Soumettre",
+      "success": "Demande de taxi envoyée avec succès",
+      "successDescription": "Notre équipe vous contactera sous peu pour confirmer la demande de taxi"
+    }
+  },
+  "about": {
+    "ourStory": {
+      "title": "Notre Histoire",
+      "description": "À la Clinique Santé, nous sommes dédiés à fournir des soins de santé exceptionnels depuis plus de deux décennies. Notre aventure a commencé avec une mission simple : offrir des services médicaux bienveillants, complets et de pointe à notre communauté.",
+      "ourValues": {
+        "compassion": {
+          "title": "Compassion",
+          "description": "Nous traitons chaque patient avec gentillesse et respect"
+        },
+        "excellence": {
+          "title": "Excellence",
+          "description": "Nous visons l'excellence dans tout ce que nous faisons"
+        },
+        "integrity": {
+          "title": "Intégrité",
+          "description": "Nous agissons avec honnêteté et transparence dans toutes nos interactions"
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "Nous adoptons de nouvelles idées et technologies pour améliorer les soins de santé"
+        },
+        "communityInvolvement": {
+          "title": "Engagement Communautaire",
+          "description": "Nous participons activement à des programmes de santé communautaire, promouvant le bien-être au-delà des murs de notre clinique."
+        }
+      }
+    },
+    "ourServices": {
+      "title": "Nos Services",
+      "services": [
+        {
+          "title": "Soins Primaires",
+          "description": "Bilans de santé complets et soins préventifs"
+        },
+        {
+          "title": "Traitements Spécialisés",
+          "description": "Soins experts pour des conditions de santé spécifiques"
+        },
+        {
+          "title": "Soins Urgents",
+          "description": "Soins immédiats pour des conditions non mortelles"
+        },
+        {
+          "title": "Services de Diagnostic",
+          "description": "Tests diagnostiques et imagerie de pointe"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Ce Que Disent Nos Patients",
+    "testimonials": [
+      {
+        "name": "Sarah L.",
+        "content": "Le personnel de la Clinique Santé est incroyablement attentionné et professionnel. Je me sens toujours bien pris en charge."
+      },
+      {
+        "name": "John D.",
+        "content": "Je viens ici depuis des années. Les médecins sont compétents et prennent le temps d'écouter mes préoccupations."
+      },
+      {
+        "name": "Emily R.",
+        "content": "Le programme de soins préventifs de la Clinique Santé a été transformateur. Leur approche proactive et les bilans réguliers m'ont aidée à maintenir une santé optimale et à détecter des problèmes potentiels tôt."
+      }
+    ]
+  },
+  "reservation": {
+    "title": "Prendre un Rendez-vous",
+    "description": "Prenez votre rendez-vous en ligne et profitez de nos services de soins de santé complets",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "date": "Date",
+      "pickDate": "Choisir une date",
+      "time": "Heure",
+      "selectTime": "Choisir une heure",
+      "service": "Service",
+      "selectService": "Choisir un service",
+      "note": "Note",
+      "noteDescription": "Toute information pertinente concernant vos préoccupations de santé ou la raison de votre visite.",
+      "errors": {
+        "name": "Le nom doit comporter au moins 3 caractères",
+        "email": "Adresse e-mail invalide",
+        "date": "La date est requise",
+        "time": "L'heure est requise",
+        "service": "Le service est requis"
+      },
+      "scheduleAppointment": "Prendre Rendez-vous"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Nous serions ravis de vous entendre",
+    "address": {
+      "title": "Adresse",
+      "address": "Institut Supérieur d'Informatique (ISI)",
+      "city": "Ariana",
+      "state": "Tunisia",
+      "zip": "2080",
+      "country": "Tunisia"
+    },
+    "phone": {
+      "title": "Téléphone",
+      "phone": "+216 71 706 164"
+    },
+    "hours": {
+      "title": "Heures d'ouverture",
+      "monday": "Lundi",
+      "friday": "Vendredi",
+      "saturday": "Samedi",
+      "sunday": {
+        "title": "Dimanche",
+        "description": "Fermé"
+      }
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "À Propos",
+      "description": "La Clinique Santé s'engage à offrir des services de santé complets dans un cadre bienveillant et accessible."
+    },
+    "quickLinks": {
+      "title": "Liens Rapides",
+      "home": "Accueil",
+      "contact": "Contact",
+      "aboutUs": "À Propos",
+      "reservation": "Réservations"
+    },
+    "followUs": "Suivez-nous",
+    "copyright": "2024 Clinique Santé",
+    "allRightsReserved": "Tous Droits Réservés",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfService": "Conditions d'Utilisation"
+  }
+}

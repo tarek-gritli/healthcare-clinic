@@ -1,0 +1,161 @@
+{
+  "header": {
+    "home": "Home",
+    "contact": "Contact",
+    "aboutUs": "About Us",
+    "appointment": "Appointments",
+    "burger": "Open Menu",
+    "close": "Close Menu"
+  },
+  "hero": {
+    "title": "Welcome to HealthCare",
+    "subtitle": "Your trusted health partner. We offer a wide range of medical services with a team of expert doctors. Our state-of-the-art facilities and compassionate care ensure that you receive the best possible treatment. From routine check-ups to specialized procedures, we're here to support your health and well-being every step of the way.",
+    "makeAppointment": "Schedule Appointment",
+    "bookTaxi": "Book Taxi",
+    "taxi": {
+      "modalTitle": "Book Taxi",
+      "modalDescription": "Please enter your destination",
+      "placeLabel": "Destination",
+      "cancel": "Cancel",
+      "submit": "Submit",
+      "success": "Taxi request sent successfully",
+      "successDescription": "Our team will contact you shortly to confirm the taxi request"
+    }
+  },
+  "about": {
+    "ourStory": {
+      "title": "Our Story",
+      "description": "At HealthCare, we've been dedicated to providing exceptional healthcare for over two decades. Our journey began with a simple mission: to offer compassionate, comprehensive, and cutting-edge medical services to our community.",
+      "ourValues": {
+        "compassion": {
+          "title": "Compassion",
+          "description": "We treat every patient with kindness and respect"
+        },
+        "excellence": {
+          "title": "Excellence",
+          "description": "We strive for excellence in everything we do"
+        },
+        "integrity": {
+          "title": "Integrity",
+          "description": "We act with honesty and transparency in all our interactions"
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "We embrace new ideas and technologies to improve healthcare"
+        },
+        "communityInvolvement": {
+          "title": "Community Involvement",
+          "description": "We actively participate in community health programs, promoting wellness beyond our clinic walls."
+        }
+      }
+    },
+
+    "ourServices": {
+      "title": "Our Services",
+      "services": [
+        {
+          "title": "Primary Care",
+          "description": "Comprehensive health assessments and preventive care"
+        },
+        {
+          "title": "Specialized Treatments",
+          "description": "Expert care for specific health conditions"
+        },
+        {
+          "title": "Urgent Care",
+          "description": "Immediate care for non-life-threatening conditions"
+        },
+        {
+          "title": "Diagnostic Services",
+          "description": "State-of-the-art diagnostic testing and imaging"
+        }
+      ]
+    }
+  },
+
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "testimonials": [
+      {
+        "name": "Sarah L.",
+        "content": "The staff at HealthCare are incredibly caring and professional. I always feel well taken care of."
+      },
+      {
+        "name": "John D.",
+        "content": "I've been coming here for years. The doctors are knowledgeable and take the time to listen to my concerns."
+      },
+      {
+        "name": "Emily R.",
+        "content": "The preventive care program at HealthCare has been transformative. Their proactive approach and regular check-ups have helped me maintain optimal health and catch potential issues early."
+      }
+    ]
+  },
+  "reservation": {
+    "title": "Schedule an Appointment",
+    "description": "Schedule your appointment online and experience our comprehensive healthcare services",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "date": "Date",
+      "pickDate": "Pick a date",
+      "time": "Time",
+      "selectTime": "Select a time",
+      "service": "Service",
+      "selectService": "Select a service",
+      "note": "Note",
+      "noteDescription": "Any relevant information about your health concerns or reason for visit.",
+      "errors": {
+        "name": "Name must be at least 3 characters long",
+        "email": "Invalid email address",
+        "date": "Date is required",
+        "time": "Time is required",
+        "service": "Service is required"
+      },
+      "scheduleAppointment": "Schedule Appointment"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "We'd love to hear from you",
+    "address": {
+      "title": "Address",
+      "address": "Higher Institute of Computer Science (ISI)",
+      "city": "Ariana",
+      "state": "Tunisia",
+      "zip": "2080",
+      "country": "Tunisia"
+    },
+    "phone": {
+      "title": "Phone",
+      "phone": "+216 71 706164"
+    },
+    "hours": {
+      "title": "Working Hours",
+      "monday": "Monday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": {
+        "title": "Sunday",
+        "description": "Closed"
+      }
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "description": "HealthCare is committed to delivering comprehensive healthcare services in a compassionate and accessible setting."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "contact": "Contact",
+      "aboutUs": "About Us",
+      "reservation": "Reservations"
+    },
+    "followUs": "Follow Us",
+    "copyright": "2024 HealthCare",
+    "allRightsReserved": "All Rights Reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "header": {
+    "home": "Inicio",
+    "contact": "Contacto",
+    "aboutUs": "Sobre Nosotros",
+    "appointment": "Citas",
+    "burger": "Abrir Menú",
+    "close": "Cerrar Menú"
+  },
+  "hero": {
+    "title": "Bienvenido a la Clínica de Salud",
+    "subtitle": "Tu socio de confianza en salud. Ofrecemos una amplia gama de servicios médicos con un equipo de médicos experimentados. Nuestras instalaciones de vanguardia y el cuidado compasivo garantizan que recibas el mejor tratamiento posible. Desde chequeos de rutina hasta procedimientos especializados, estamos aquí para apoyarte en tu salud y bienestar en cada paso.",
+    "makeAppointment": "Hacer una Cita",
+    "bookTaxi": "Reservar un Taxi",
+    "taxi": {
+      "modalTitle": "Reservar un Taxi",
+      "modalDescription": "Ingresa tu destino",
+      "placeLabel": "Destino",
+      "cancel": "Cancelar",
+      "submit": "Enviar",
+      "success": "Solicitud de taxi enviada con éxito",
+      "successDescription": "Nuestro equipo se pondrá en contacto contigo pronto para confirmar tu solicitud de taxi"
+    }
+  },
+  "about": {
+    "ourStory": {
+      "title": "Nuestra Historia",
+      "description": "En la Clínica de Salud, nos dedicamos a brindar atención médica excepcional durante más de dos décadas. Nuestro viaje comenzó con una misión simple: ofrecer servicios médicos compasivos, integrales y de última generación a nuestra comunidad.",
+      "ourValues": {
+        "compassion": {
+          "title": "Compasión",
+          "description": "Tratamos a cada paciente con amabilidad y respeto"
+        },
+        "excellence": {
+          "title": "Excelencia",
+          "description": "Buscamos la excelencia en todo lo que hacemos"
+        },
+        "integrity": {
+          "title": "Integridad",
+          "description": "Actuamos con honestidad y transparencia en todas nuestras interacciones"
+        },
+        "innovation": {
+          "title": "Innovación",
+          "description": "Adoptamos nuevas ideas y tecnologías para mejorar la atención médica"
+        },
+        "communityInvolvement": {
+          "title": "Compromiso con la Comunidad",
+          "description": "Participamos activamente en programas de salud comunitaria, promoviendo el bienestar más allá de las paredes de nuestra clínica."
+        }
+      }
+    },
+    "ourServices": {
+      "title": "Nuestros Servicios",
+      "services": [
+        {
+          "title": "Atención Primaria",
+          "description": "Evaluaciones de salud completas y atención preventiva"
+        },
+        {
+          "title": "Tratamientos Especializados",
+          "description": "Cuidado experto para condiciones de salud específicas"
+        },
+        {
+          "title": "Atención de Urgencias",
+          "description": "Atención inmediata para condiciones no mortales"
+        },
+        {
+          "title": "Servicios de Diagnóstico",
+          "description": "Pruebas diagnósticas y de imagen de última generación"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Pacientes",
+    "testimonials": [
+      {
+        "name": "Sarah L.",
+        "content": "El personal de la Clínica de Salud es increíblemente atento y profesional. Siempre me siento bien cuidada."
+      },
+      {
+        "name": "John D.",
+        "content": "He venido aquí por años. Los doctores son competentes y se toman el tiempo de escuchar mis preocupaciones."
+      },
+      {
+        "name": "Emily R.",
+        "content": "El programa de atención preventiva de la Clínica de Salud ha sido transformador. Su enfoque proactivo y chequeos regulares me han ayudado a mantener una salud óptima y a detectar posibles problemas desde el principio."
+      }
+    ]
+  },
+  "reservation": {
+    "title": "Reservar una Cita",
+    "description": "Reserva tu cita en línea y descubre nuestros completos servicios de salud",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "date": "Fecha",
+      "pickDate": "Elige una fecha",
+      "time": "Hora",
+      "selectTime": "Selecciona una hora",
+      "service": "Servicio",
+      "selectService": "Selecciona un servicio",
+      "note": "Nota",
+      "noteDescription": "Cualquier información relevante sobre tus preocupaciones de salud o el motivo de la visita.",
+      "errors": {
+        "name": "El nombre debe tener al menos 3 caracteres",
+        "email": "Dirección de correo electrónico no válida",
+        "date": "La fecha es obligatoria",
+        "time": "La hora es obligatoria",
+        "service": "El servicio es obligatorio"
+      },
+      "scheduleAppointment": "Reservar Cita"
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "description": "Nos encantaría saber de ti",
+    "address": {
+      "title": "Dirección",
+      "address": "Instituto Superior de Informática (ISI)",
+      "city": "Ariana",
+      "state": "Túnez",
+      "zip": "2080",
+      "country": "Túnez"
+    },
+    "phone": {
+      "title": "Teléfono",
+      "phone": "+216 71 706 164"
+    },
+    "hours": {
+      "title": "Horarios de Apertura",
+      "monday": "Lunes",
+      "friday": "Viernes",
+      "saturday": "Sábado",
+      "sunday": {
+        "title": "Domingo",
+        "description": "Cerrado"
+      }
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "Sobre Nosotros",
+      "description": "La Clínica de Salud está comprometida a brindar servicios de salud completos en un entorno compasivo y accesible."
+    },
+    "quickLinks": {
+      "title": "Enlaces Rápidos",
+      "home": "Inicio",
+      "contact": "Contacto",
+      "aboutUs": "Sobre Nosotros",
+      "reservation": "Reservas"
+    },
+    "followUs": "Síguenos",
+    "copyright": "2024 Clínica de Salud",
+    "allRightsReserved": "Todos los Derechos Reservados",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  }
+}
